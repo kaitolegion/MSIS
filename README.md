@@ -1,4 +1,4 @@
-# MSIS
+# Marber Student Information System
 Marber Student Information System OR M.S.I.S is to manage, store and track the student's related data on a secured environment. This system platform allows the admin to store student's academic records in one place and ensure the only authorized person can access the information.
 
 ## Login page
