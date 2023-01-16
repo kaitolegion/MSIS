@@ -10,3 +10,5 @@ Marber Student Information System OR M.S.I.S is to manage, store and track the s
 ![image](https://user-images.githubusercontent.com/47966968/212592002-4b510050-87d1-4aa4-8a94-180e07d715e1.png)
 
 ## Studentlist
+
+![image](https://user-images.githubusercontent.com/47966968/212592174-184fcac6-a009-4c14-adc2-3d4c6fc14a41.png)
