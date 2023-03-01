@@ -7,6 +7,9 @@ Marber Student Information System OR M.S.I.S is to manage, store and track the s
 - The system have database relation one to many (instructor -> students)
 - The system require to login authentication
 - The system allow to protected by security measures attack such as (SQL Injection, XSS)
+- The system can delete student data
+- The system shall search student data such as (lastname, firstname, middlename)
+- The system can print, copy, and export excel file.
 
 ## Login page
 
