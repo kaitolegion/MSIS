@@ -1,15 +1,12 @@
 # Marber Student Information System
 Marber Student Information System (MSIS) manage, store and track the student's data. This system allows the admin to store student's information records in one place. Just a trash project
 
-## System Features
+## System Features and Functions
 
-- The system shall upload/update student information
-- The system have database relation one to many (instructor -> students)
-- The system require to login authentication
-- The system allow to protected by security measures attack such as (SQL Injection, XSS)
-- The system can delete student data
-- The system shall search student data such as (lastname, firstname, middlename)
-- The system can print, copy, and export excel file.
+- upload/update student information
+- login authentication
+- CRUD
+- print, copy, and export excel file.
 
 ## Login page
 
